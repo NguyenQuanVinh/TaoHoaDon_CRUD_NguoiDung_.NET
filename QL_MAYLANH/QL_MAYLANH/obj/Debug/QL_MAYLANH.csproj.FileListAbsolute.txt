@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\bin\Debug\QL_MAYLANH.exe.config
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\bin\Debug\QL_MAYLANH.exe
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\bin\Debug\QL_MAYLANH.pdb
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.Form1.resources
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.Properties.Resources.resources
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.csproj.GenerateResource.cache
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.exe
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.pdb
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.Form2.resources
+C:\Users\ASUS\source\.NET\QL_MAYLANH\QL_MAYLANH\obj\Debug\QL_MAYLANH.Form3.resources
